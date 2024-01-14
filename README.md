@@ -1,5 +1,5 @@
 # Overview
-<p>Application to separate "and", "if" words by sentences</p>
+<p>Application that separates "and" and "if" words by sentences</p>
 <p>Detects language of the entered string, with the native Natural Language Framework (provided by Apple)</p>
 <p>Generates results while typing</p>
 

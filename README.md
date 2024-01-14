@@ -7,8 +7,9 @@
 <img src="https://github.com/mishadovhiy/SentencesTokenizer/assets/44978117/01fc0274-b3eb-4096-b985-b6dd936b84bb" width="49%">
 <img src="https://github.com/mishadovhiy/SentencesTokenizer/assets/44978117/ca2e4a72-7a64-41db-8a67-43489b28141f" width="49%">
 </div>
+<br> <br> 
 
-# copy animation
+# Copy results with animation
 
 <div style="display:flex; width:100%;">
 

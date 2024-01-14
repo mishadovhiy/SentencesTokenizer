@@ -1,6 +1,7 @@
 # Overview
 <p>Application to separate "and", "if" words by sentences</p>
 <p>Detects language of the entered string, with the native Natural Language Framework (provided by Apple)</p>
+<p>Generates results while typing</p>
 
 <div style="display:flex; width:100%;">
 <img src="https://github.com/mishadovhiy/SentencesTokenizer/assets/44978117/01fc0274-b3eb-4096-b985-b6dd936b84bb" width="49%">
